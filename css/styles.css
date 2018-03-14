@@ -1,0 +1,26 @@
+h1{
+  font-size: 90px;
+  text-align:center;
+  text-shadow: 4px 4px 4px #000000;
+  color: salmon;
+  text-decoration: underline;
+}
+p{
+  Color: salmon;
+  font-size: 70px;
+  font-style: italic;
+  text-align: center;
+  text-shadow: 4px 4px 4px #000000;
+}
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/91/Winkel_triple_projection_SW.jpg");
+  background-size: 100%;
+  background-width: 100%;
+  text-align: justify;
+}
+h5{
+  text-align: left;
+}
+div{
+  color: green;
+}
