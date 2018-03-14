@@ -18,9 +18,29 @@ body{
   background-width: 100%;
   text-align: justify;
 }
-h5{
-  text-align: left;
-}
 div{
   color: green;
+}
+
+h4 {
+  color: #1a2e4f;
+  font-size: 100px;
+
+}
+
+span.more {
+  font-style: oblique;
+  font-size: 75px;
+  color: #2a3b56;
+}
+
+p.more2{
+  color: #776b25;
+}
+
+div.different {
+  font-style: normal;
+  font-family: fantasy;
+  background-image: url("https://img00.deviantart.net/06dc/i/2012/128/8/5/under_the_sea_background_by_mysticmorning-d4yz4ad.jpg");
+
 }
